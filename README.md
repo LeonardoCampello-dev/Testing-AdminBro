@@ -2,11 +2,7 @@
     <img src="./AdminBro.png" width="700">
 </h1>
 
-<h3 align="center">
-
-> Performing a simple CRUD using the AdminBro tool 🔨
-
-</h3>
+<h2 align="center"> Performing a simple CRUD using the AdminBro tool 🔨</h2>
 
 ## 📑 Description
 
